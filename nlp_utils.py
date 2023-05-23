@@ -3,7 +3,7 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 
-openai.api_key = "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"
+openai.api_key = "OPEN_AI_API_TOKEN"
 
 nltk.download('stopwords')
 nltk.download('punkt')
